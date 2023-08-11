@@ -1,20 +1,4 @@
-LHL Midterm Group Project: Smart TODO App
-=========
 
-# Project Goals and Requirements
-
-By combining prior experience in Node.js, PSQL, HTML, CSS and API requests with online research, students are expected to build a Smart TODO App using the given node skeleton as a base (https://github.com/lighthouse-labs/node-skeleton).
-
-Users should be able to add the name of a TODO, which the app will then SMART AUTO-CATEGORIZE into one of the following categories:
-- Film / Series (To watch)
-- Restaurants, cafes, etc. (To eat)
-- Books (To read)
-- Products (To buy)
-- General (If no match)
-
-In order to create the Smart Auto-Categorization feature, various API's will be used to determine the the nature of the TODO inputted while balancing multiple API endpoints.
-
-If the TODO is linked to multiple categories, the user will be able to select the correct category to avoid potential auto-miscategorization.
 
 ## Getting Started
 
